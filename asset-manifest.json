@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d47db366.css",
+    "main.js": "/static/js/main.3065bba8.js",
+    "static/js/453.a8b7417e.chunk.js": "/static/js/453.a8b7417e.chunk.js",
+    "static/media/screencapture-metacareers-areas-of-work-whatsapp-2024-09-27-16_54_14.png": "/static/media/screencapture-metacareers-areas-of-work-whatsapp-2024-09-27-16_54_14.1289cc9471ba3c3c1152.png",
+    "static/media/background.png": "/static/media/background.f4f018387e15ff536d8d.png",
+    "static/media/phone.png": "/static/media/phone.a7326ddadd7a4440a1a3.png",
+    "static/media/logo_white.svg": "/static/media/logo_white.8f1c283b8e9f9cfd8094e165c4b309c1.svg",
+    "index.html": "/index.html",
+    "main.d47db366.css.map": "/static/css/main.d47db366.css.map",
+    "main.3065bba8.js.map": "/static/js/main.3065bba8.js.map",
+    "453.a8b7417e.chunk.js.map": "/static/js/453.a8b7417e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47db366.css",
+    "static/js/main.3065bba8.js"
+  ]
+}
